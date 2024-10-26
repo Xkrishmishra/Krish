@@ -8,8 +8,8 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
-from SONALI.utils.database import is_on_off
-from SONALI.utils.formatters import time_to_seconds
+from DAXXMUSIC.utils.database import is_on_off
+from DAXXMUSIC.utils.formatters import time_to_seconds
 
 async def shell_cmd(cmd):
     proc = await asyncio.create_subprocess_shell(
