@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","sage_xd")
+OWNER_USERNAME = getenv("OWNER_USERNAME","lx44kk")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME")
 # --------------------------------------------------------
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/x4rishChatz")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/team_sage_xd")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/krishnetwork")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/krishsupport")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
